@@ -22,6 +22,7 @@ Most successful crowdfunding campaigns had a goal of $10,000 or less. Having a b
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/109987269/184264822-b773f3d1-e84c-4e45-8ba7-a3a7a9885ed5.png)
 
 ### Challenges and Difficulties Encountered
+While being new to Excel, it took me some practive with Pivot Tables in order to master them. I was able to visualize the table I needed in my head but was having difficulty translating that to Excel. Through trial and error I was able to figure out how to correctly place the categories in their proper boxes. I can see how other people might also struggle creating Pivot Tables. 
 
 ## Results
 -Based on our *Outcomes Based on Launch Date* chart, we can see that any play that was launched in December has a poor outcome. There is about a 50% chance of it failing, which is the worst success rate compared to the rest of the year. On the other hand, launching a play in May would be the best option having a success rate of almost 70%.
