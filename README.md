@@ -11,12 +11,11 @@ Working with excel to visualy represent to our friend Louise how to create a suc
 
 ### Analysis of Outcomes Based on Launch Date
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/109987269/184264918-c2189853-b076-4460-b1e6-88dcd4092f07.png)
-The months of May and June proved to be the months with the most success rates are launching crowdfunding campaigns. Louise should aim at launching her crowdfunding campaign in the middle of May to better her chances at succeeding. We want to stay away from launching our campaign in December. My reasoning would be because many people are buying holiday presents and aren't interesting in funding plays with those priorities in mind.![image](https://user-images.githubusercontent.com/109987269/184272429-f3acf782-cfe3-4305-9b00-e59cc7b00ff6.png)
-
+The months of May and June proved to be the months with the most success rates are launching crowdfunding campaigns. Louise should aim at launching her crowdfunding campaign in the middle of May to better her chances at succeeding. We want to stay away from launching our campaign in December. My reasoning would be because many people are buying holiday presents and aren't interesting in funding plays with those priorities in mind.
 
 ### Analysis of Outcomes Based on Goals
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/109987269/184264822-b773f3d1-e84c-4e45-8ba7-a3a7a9885ed5.png)
-
+Most successful crowdfunding campaigns had a goal of $10,000 or less. Having a budget of that size has a probability of 70% success rate based on our data, the highest success compared to the rest. Having set this budget, it seems like Louise is on the path of having a successful crowdfunding campaign.
 ### Challenges and Difficulties Encountered
 
 ## Results
